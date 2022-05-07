@@ -1,1 +1,1 @@
-# IRC server for locally.
+ローカルで動かす用の簡易IRCサーバ
